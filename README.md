@@ -20,3 +20,19 @@ Desarrollar un carrito robot que sea util para la institución
 
 ## Estado del Proyecto
 Fase 1: Cotizaciones
+# [Dana Monterroza]
+
+## Mis Hobbies
+
+- Dormir
+- Escuchar música
+- Ir al gym
+
+## Mis Tecnologías Favoritas
+
+1. Tik Tok
+2. Spotify
+3. Instagram
+
+Las redes sociales me apasionan porque facilitan la **conexión** inmediata con personas de todo el mundo y permiten expresar la creatividad de forma *dinámica*. Mi plataforma favorita para aprender e informarme es [YouTube](https://www.youtube.com).  
+
