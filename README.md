@@ -1,8 +1,7 @@
-# Sistema de Monitoreo Ambiental Escolar
+# BIBI
 
-## Integrantes del Equipo
+## Integrante del equipo
 * Dana Monterroza - Grado 11-1
-* Mariana Pedrozo - Grado 11-1
 
 ## Descripción General
 Carrito Robot autonomo que repartirá almuerzos a un grado especifico de primaria.
