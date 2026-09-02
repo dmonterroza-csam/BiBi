@@ -20,7 +20,7 @@ Desarrollar un carrito robot que sea util para la institución
 
 ## Estado del Proyecto
 Fase 1: Cotizaciones
-# [Dana Monterroza]
+# Dana Monterroza
 
 ## Mis Hobbies
 
