@@ -1,7 +1,7 @@
 # BIBI
 
 ## Integrante del equipo
-* Dana Monterroza - Grado 11-1
+* Dana Monterroza - Grado 11
 
 ## Descripción General
 Carrito Robot autonomo que repartirá almuerzos a un grado especifico de primaria.
