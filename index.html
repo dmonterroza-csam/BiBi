@@ -1,13 +1,158 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>proyecto-grado</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIBI - Bot Inteligente de Bienestar e Integración</title>
+    <!-- Vinculación con tu archivo CSS -->
+    <link rel="stylesheet" href="bibi.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navegación -->
+    <header class="navbar">
+        <div class="logo">
+            <a href="#inicio">
+                <img src="bibilogo.png" alt="Logo BIBI" class="logo-img">
+            </a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#acerca">¿Qué es BIBI?</a></li>
+                <li><a href="#objetivos">Objetivos</a></li>
+                <li><a href="#publico">Público Objetivo</a></li>
+                <li><a href="#equipo">Equipo</a></li>
+              
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección Hero / Portada -->
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <span class="badge">Tipo de Proyecto: Robótica</span>
+            <h1><span>BIBI</span></h1>
+            <h2>Bot Inteligente de Bienestar e Integración</h2>
+            <p>Un carrito robot repartidor diseñado para transformar la hora del almuerzo en una experiencia tecnológica, segura y organizada.</p>
+            <div class="hero-buttons">
+                <a href="#objetivos" class="btn-primary">Ver Objetivos</a>
+                <a href="#acerca" class="btn-secondary">Saber Más</a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <div class="robot-placeholder">
+                
+                <span>Carrito Repartidor BIBI</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- ¿Qué es BIBI? (Acrónimo) -->
+    <section id="acerca" class="about">
+        <h2>Significado de <span>BIBI</span></h2>
+        <div class="acronym-grid">
+            <div class="acronym-card">
+                <h3>B</h3>
+                <p><strong>Bot</strong> Inteligente</p>
+            </div>
+            <div class="acronym-card">
+                <h3>I</h3>
+                <p><strong>Inteligente</strong></p>
+            </div>
+            <div class="acronym-card">
+                <h3>B</h3>
+                <p>de <strong>Bienestar</strong></p>
+            </div>
+            <div class="acronym-card">
+                <h3>I</h3>
+                <p>e <strong>Integración</strong></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Objetivos -->
+    <section id="objetivos" class="goals">
+        <h2>Objetivo <span>General</span></h2>
+        <div class="main-goal">
+            <p>Automatizar la distribución de <strong>5 almuerzos</strong> desde la portería hasta el punto de entrega focalizado: el <strong>aula de primer grado</strong> del Colegio San Alberto Magno (proyecto piloto replicable).</p>
+        </div>
+
+        <h3 class="sub-title">Objetivos <span>Específicos</span></h3>
+        <div class="specific-goals-grid">
+            <div class="card">
+                <div class="icon"></div>
+                <h3>Diseñar</h3>
+                <p>Estructurar la arquitectura mecánica y electrónica del robot repartidor.</p>
+            </div>
+            <div class="card">
+                <div class="icon"></div>
+                <h3>Programar</h3>
+                <p>Desarrollar el software de control y los algoritmos de navegación.</p>
+            </div>
+            <div class="card">
+                <div class="icon"></div>
+                <h3>Implementar</h3>
+                <p>Desplegar el sistema en las instalaciones del colegio.</p>
+            </div>
+            <div class="card">
+                <div class="icon"></div>
+                <h3>Construir</h3>
+                <p>Ensamble físico y pruebas funcionales del carrito repartidor.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Público Objetivo -->
+    <section id="publico" class="target">
+        <h2>Público <span>Objetivo</span></h2>
+        <div class="target-grid">
+            <div class="target-card">
+                <div class="icon"></div>
+                <h3>Usuarios Finales</h3>
+                <p>Estudiantes de <strong>primer grado</strong> del Colegio San Alberto Magno, garantizándoles una entrega segura y puntual.</p>
+            </div>
+            <div class="target-card">
+                <div class="icon"></div>
+                <h3>Operadores</h3>
+                <p>Personal de <strong>labores varias</strong>, encargados de colocar los alimentos en portería y activar la ruta del robot.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Integrantes del Equipo -->
+    <section id="equipo" class="team">
+        <h2>Equipo de <span>Trabajo</span></h2>
+        <div class="team-grid">
+            <div class="team-card">
+                <div class="team-icon"></div>
+                <h3>Mariana Alejandra Pedrozo Tapia</h3>
+                <p class="role">Líder de proyecto</p>
+            </div>
+            <div class="team-card">
+                <div class="team-icon"></div>
+                <h3>Dana Sofia Monterroza Calderon</h3>
+                <p class="role">Analista</p>
+            </div>
+            <div class="team-card">
+                <div class="team-icon"></div>
+                <h3>Yulieth Sofia Quintana Olivares</h3>
+                <p class="role">Diseñadora</p>
+            </div>
+            <div class="team-card">
+                <div class="team-icon"></div>
+                <h3>Gabriel Enrique Beltran Insignares</h3>
+                <p class="role">Documentador</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contacto">
+        <p>&copy; 2026 Proyecto BIBI - Colegio San Alberto Magno</p>
+        <p>Transformando la hora del almuerzo con Robótica e Innovación.</p>
+    </footer>
+
+</body>
 </html>
