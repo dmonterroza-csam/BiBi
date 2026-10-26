@@ -1,37 +1,41 @@
-# BIBI
+# BIBI - Bot Inteligente de Bienestar e Integración
 
-## Integrante del equipo
-* Dana Monterroza - Grado 11
+¡Bienvenido al repositorio oficial del **Proyecto BIBI**! 
 
-## Descripción General
-Carrito Robot autonomo que repartirá almuerzos a un grado especifico de primaria.
+**BIBI** es un carrito robot repartidor perteneciente al área de **Robótica**, diseñado para transformar la hora del almuerzo en una experiencia tecnológica segura y organizada.
 
-## Problema Identificado
-La falta de orden a la hora de repartir los almuerzos.
+---
 
 ## Objetivo General
-Desarrollar un carrito robot que sea util para la institución
+
+- Automatizar la distribución de 5 almuerzos desde la portería hasta los puntos de entrega del **Colegio San Alberto Magno**.
+
+---
+
+## Objetivos Específicos
+
+- **Diseñar:** La estructura física y lógica del carrito repartidor.
+- **Programar:** Las rutinas de navegación y control de entrega.
+- **Implementar:** Las tecnologías necesarias para un funcionamiento óptimo en el colegio.
+- **Construir:** El prototipo funcional del carrito robot BIBI.
+
+---
+
+## Público Objetivo
+
+- **Usuarios Finales:** Estudiantes y personal del Colegio San Alberto Magno.
+- **Operadores:** Personal encargado de cargar los almuerzos y supervisar las entregas.
+
+---
+
 ## Tecnologías Utilizadas
-* React.js
-* Vite
-* HTML5 y CSS3
-* Git y GitHub
 
-## Estado del Proyecto
-Fase 1: Cotizaciones
-# Dana Monterroza
+- **Tipo de Proyecto:** Robótica.
+- **Web App / Landing Page:** HTML5, CSS3.
 
-## Mis Hobbies
+---
 
-- Dormir
-- Escuchar música
-- Ir al gym
+## Cómo Ejecutar la Landing Page
 
-## Mis Tecnologías Favoritas
-
-1. Tik Tok
-2. Spotify
-3. Instagram
-
-Las redes sociales me apasionan porque facilitan la **conexión** inmediata con personas de todo el mundo y permiten expresar la creatividad de forma *dinámica*. Mi plataforma favorita para aprender e informarme es [YouTube](https://www.youtube.com).  
-
+1. Clona o descarga este repositorio.
+2. Abre el archivo `index.html` en cualquier navegador web.
